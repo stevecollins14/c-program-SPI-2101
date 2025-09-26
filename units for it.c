@@ -17,4 +17,5 @@ int main (){
     printf("SPI 2101    Introduction to Programming and Algorithms \n");
     printf("SPM 2104    Mathematics For Science /n");
 return 0;
+
 }
