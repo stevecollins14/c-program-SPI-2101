@@ -42,4 +42,5 @@ scanf("%d",&contact);
     
 printf("Your contact is %d\n",contact);
 return 0;
+
 }
