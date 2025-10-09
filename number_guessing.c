@@ -22,7 +22,7 @@ int main(){
 	printf("WELCOME TO NUMBER GUESSING GAME     \n");
 	printf("Guess a number in between 1 and 20   \n");
 	
-	while(16){
+	while(1){
 		printf("Enter your guess:  ");
 		scanf("%d",&guess);
 		attempts++;
@@ -38,5 +38,6 @@ int main(){
 	
 	return 0;
 }
+
 
 
