@@ -5,6 +5,7 @@ Reg: CT/G/26243/25
 Description: electricity bill
 */
 
+#include<stdio.h>
 // function prototype
 int CalculateElectricBill(int units);
 
@@ -36,3 +37,4 @@ int CalculateElectricBill( int units ){
 	}
 	return bill ;
 }
+
